@@ -12,4 +12,6 @@ Machine Learning competition.
 
 The notebook is intended to be rendered as slides using the RISE extension.
 
-This talk was created for a presention to the SLC Python Meetup on June 3, 2020.
+This talk was originally created for a presention to the SLC Python Meetup on June 3, 2020.
+
+A more concise version of the talk was presented at PluralsightLIVE 2020, and can be accessed on the [pslive-version](https://github.com/jesford/image-augmentation-demo/tree/pslive-version) branch.
